@@ -1,0 +1,12 @@
+# Environments
+.env
+
+# Environments & Caches
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local Database (Should not be pushed)
+*.db
+*.sqlite3
